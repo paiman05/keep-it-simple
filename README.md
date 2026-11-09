@@ -26,7 +26,7 @@ See [`skills/keep-it-simple/SKILL.md`](skills/keep-it-simple/SKILL.md) for the f
 ### Claude Code plugin (recommended)
 
 ```
-/plugin marketplace add <owner>/keep-it-simple
+/plugin marketplace add paiman05/keep-it-simple
 /plugin install keep-it-simple@keep-it-simple
 ```
 
@@ -35,7 +35,7 @@ See [`skills/keep-it-simple/SKILL.md`](skills/keep-it-simple/SKILL.md) for the f
 Copy the skill folder into your personal or project skills directory:
 
 ```bash
-git clone https://github.com/<owner>/keep-it-simple.git
+git clone https://github.com/paiman05/keep-it-simple.git
 cp -r keep-it-simple/skills/keep-it-simple ~/.claude/skills/
 # or, per project:
 cp -r keep-it-simple/skills/keep-it-simple .claude/skills/
