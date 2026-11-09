@@ -1,0 +1,10 @@
+{
+  "name": "keep-it-simple",
+  "version": "1.0.0",
+  "description": "Stops Claude from over-engineering: reuse existing code, prefer built-ins and popular packages, pick the easiest approach, minimal diff — but always finish the task completely.",
+  "author": {
+    "name": "Paiman Rasoli"
+  },
+  "license": "MIT",
+  "keywords": ["skill", "simplicity", "over-engineering", "code-quality"]
+}

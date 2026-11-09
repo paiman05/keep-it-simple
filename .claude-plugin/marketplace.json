@@ -1,0 +1,14 @@
+{
+  "name": "keep-it-simple",
+  "owner": {
+    "name": "Paiman Rasoli"
+  },
+  "plugins": [
+    {
+      "name": "keep-it-simple",
+      "source": "./",
+      "description": "Stops Claude from over-engineering: reuse existing code, prefer built-ins and popular packages, pick the easiest approach, minimal diff — but always finish the task completely.",
+      "version": "1.0.0"
+    }
+  ]
+}
