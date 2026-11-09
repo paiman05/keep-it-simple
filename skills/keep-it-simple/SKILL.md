@@ -1,6 +1,6 @@
 ---
 name: keep-it-simple
-description: Use whenever writing or changing code — features, bug fixes, refactors, adding logic or utilities, or choosing between implementation approaches. Prevents over-engineering: reuse existing code, prefer built-ins and popular well-maintained packages over hand-written logic, pick the easiest approach, keep the diff minimal — but always finish the task completely, even when it truly needs many files.
+description: "Use whenever writing or changing code — features, bug fixes, refactors, adding logic or utilities, or choosing between implementation approaches. Prevents over-engineering: reuse existing code, prefer built-ins and popular well-maintained packages over hand-written logic, pick the easiest approach, keep the diff minimal — but always finish the task completely, even when it truly needs many files."
 ---
 
 # Keep It Simple
